@@ -12,11 +12,11 @@ time.sleep(30)
 
  
 
-username = "MQTT USERNAME"
+username = "b0750020-2218-11ec-9f5b-45181495093e USERNAME"
 
-password = "MQTT PASSWORD"
+password = "a37fcf292c148e5a0770b360f3af620686ec77f2 PASSWORD"
 
-clientid = "CLIENT ID"
+clientid = "81554a60-2219-11ec-ad90-75ec5e25c7a4"
 
  
 
