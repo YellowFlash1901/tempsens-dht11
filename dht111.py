@@ -42,7 +42,7 @@ while True:
 
     try:
 
-        humidity11, temp11 = Adafruit_DHT.read_retry(11, 17)   // 11 is the sensor type, 17 is the GPIO pin number
+        humidity11, temp11 = Adafruit_DHT.read_retry(11, 17)   
 
       
 
